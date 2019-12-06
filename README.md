@@ -1,6 +1,7 @@
-### EthereumLearningResourceGuide
+# EthereumLearningResourceGuide
+#### Will be adding virtual machine with devlopment environment already setup soon (next couple of days)
 
-#The Beginning, intro level guides covering all aspects of the Ethereum ecosystem (great resource list)
+## The Beginning, intro level guides covering all aspects of the Ethereum ecosystem (great resource list)
 https://docs.ethhub.io/
 https://ethereum.org/
 https://observablehq.com/@consensys-academy
@@ -8,7 +9,7 @@ https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
 https://kauri.io/article/1f4196c3db7f41e5845f063dc1581a4e/v4/ethereum-explained:-merkle-trees-world-state-transactions-and-more
 https://research.csiro.au/data61/wp-content/uploads/sites/85/2016/08/D61Live2017_Blockchain_Poster-p2.pdf
 
-#Devlopment Environment and resource lists, simple to complex
+###  Devlopment Environment and resource lists, simple to complex
 https://ethereum.org/developers/#getting-started
 https://github.com/ConsenSys/ethereum-developer-tools-list
 https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/giant_ethereum_resource_list.html
@@ -18,11 +19,11 @@ https://kauri.io/article/9a7d8927c9484f879d761981d70a42df/v2/tools-for-dapp-deve
 https://consensys.net/developers/
 https://ethereum-homestead.readthedocs.io/en/latest/index.html
 
-#Code Editor Tools
+###  Code Editor Tools
 https://davidburela.wordpress.com/2016/11/18/configuring-visual-studio-code-for-ethereum-blockchain-development/
 https://atom.io/packages/etheratom
 
-#Crucial References (Thorough and "must have")
+###  Crucial References (Thorough and "must have")
 https://github.com/ethereum/wiki/wiki/White-Paper
 http://gavwood.com/Paper.pdf
 https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial
@@ -35,19 +36,19 @@ https://www.trufflesuite.com/docs/truffle/overview
 https://github.com/trufflesuite/ganache
 https://readthedocs.org/projects/solidity/downloads/pdf/v0.5.13/https://github.com/manojpramesh/solidity-cheatsheet (becoming more and more outdated)
 
-#Libraries, Utilities, Helpers
+###  Libraries, Utilities, Helpers
 https://docs.openzeppelin.com/openzeppelin/
 https://github.com/OpenZeppelin/openzeppelin-contracts
 
-#Q&A Areas, specific questions and answers
+###  Q&A Areas, specific questions and answers
 https://ethereum.stackexchange.com/
 https://stackoverflow.com/search?q=ethereum
 
-#Testing and Auditing tools
+###  Testing and Auditing tools
 https://github.com/ConsenSys/truffle-security
 https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor
 
-#Ethereum/Solidity Courses
+###  Ethereum/Solidity Courses
 https://observablehq.com/@consensys-academy
 https://cryptozombies.io/
 https://www.bitdegree.org/learn/solidity
@@ -63,7 +64,7 @@ https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-se
 A playlist of great instructional videos covering much of this:
 https://www.youtube.com/playlist?list=PLW17amKMlbb_V2h1j2oJz1NAPid594iZh
 
-#Tutorials
+###  Tutorials
 https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain.html
 https://medium.com/robhitchens/solidity-crud-part-1-824ffa69509a
 https://medium.com/crowdbotics/solidity-crud-tutorial-part-2-testing-your-smart-contract-with-truffle-3866f3ce2c66
@@ -73,57 +74,57 @@ https://www.trufflesuite.com/tutorials/building-testing-frontend-app-truffle-3
 https://gist.github.com/evertonfraga/9d65a9f3ea399ac138b3e40641accf23
 https://ethernaut.openzeppelin.com/
 
-#Tools
-(Ethereum visualization live) http://ethviewer.live/
-(IDE) http://remix.ethereum.org/
-(Live Ethereum stats) https://ethstats.net/
-(virtual machine) https://www.virtualbox.org/wiki/Linux_Downloads
-(block explorer) https://etherscan.io/
-(block explorer) https://www.blockchain.com/explorer
-(for ubuntu usage) https://pkgs.org/
-(ASCII to Hex) chrome://bookmarks/?id=722
-(hosting) https://infura.io/
-(hosting and deployment) https://ethdeploy.com/
-(IDE) https://ethfiddle.com/
-(Mnemonic Code Converter) https://iancoleman.io/bip39/
+###  Tools
+`(Ethereum visualization live)` http://ethviewer.live/
+`(IDE)` http://remix.ethereum.org/
+`(Live Ethereum stats)` https://ethstats.net/
+`(Virtual machine)` https://www.virtualbox.org/wiki/Linux_Downloads
+`(Block explorer)` https://etherscan.io/
+`(Block explorer)` https://www.blockchain.com/explorer
+`(For ubuntu usage)` https://pkgs.org/
+`(ASCII to Hex)` chrome://bookmarks/?id=722
+`(Hosting)` https://infura.io/
+`(Hosting and deployment)` https://ethdeploy.com/
+`(IDE)` https://ethfiddle.com/
+`(Mnemonic Code Converter)` https://iancoleman.io/bip39/
 
 
-### Concept
+## Concept
 
-#Merkle Trees
+###  Merkle Trees
 https://observablehq.com/@consensys-academy/merkle-trees
 
-#Gas
+###  Gas
 https://github.com/LeastAuthority/ethereum-analyses/blob/7fd08c1d8846f2ec01bb171ee2b7d58dc4ef9b56/GasEcon.md
 https://masterthecrypto.com/ethereum-what-is-gas-gas-limit-gas-price/
 https://github.com/LeastAuthority/ethereum-analyses/tree/7fd08c1d8846f2ec01bb171ee2b7d58dc4ef9b56
 
-#Bytecode and OP codes
+###  Bytecode and OP codes
 https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md
 https://medium.com/@blockchain101/solidity-bytecode-and-opcode-basics-672e9b1a88c2
 https://www.youtube.com/watch?v=e7yZZILUjyM
 https://gist.github.com/hayeah/bd37a123c02fecffbe629bf98a8391df
 
-#Consensus
+###  Consensus
 https://medium.com/s/story/lets-take-a-crack-at-understanding-distributed-consensus-dad23d0dc95
 
-#Oracles
+###  Oracles
 https://blockonomi.com/oracles-guide/
 https://medium.com/fabric-ventures/decentralised-oracles-a-comprehensive-overview-d3168b9a8841
 
-#Wallets
+###  Wallets
 https://blockgeeks.com/guides/cryptocurrency-wallet-guide/
 
-#Communication among Ethereum nodes
+###  Communication among Ethereum nodes
 https://github.com/ethereum/devp2p/blob/master/rlpx.md
 
-#Ethereums PoW puzzle
+###  Ethereums PoW puzzle
 https://github.com/LeastAuthority/ethereum-analyses/blob/7fd08c1d8846f2ec01bb171ee2b7d58dc4ef9b56/PoW.md
 
-#Testnets
+### Testnets
 https://ethereum.stackexchange.com/questions/27048/comparison-of-the-different-testnets
 
-#Crypto Economics, Centralization, Banks, etc.
+### Crypto Economics, Centralization, Banks, etc.
 https://ex.rs/on-supply-caps/
 https://www.weforum.org/projects/central-banks-age-of-blockchain
 https://techbullion.com/central-banks-and-the-blockchain-technology/amp/
@@ -132,15 +133,16 @@ https://publications.banque-france.fr/en/central-bank-digital-currency-one-two-o
 https://tokentaxonomy.org/resources/technical-documents/
 https://medium.com/coinmonks/the-top-3-catalysts-behind-an-impending-monetary-revolution-85735af7e170
 
-#Other Ideologies
+### Other Ideologies
 https://www.jofreeman.com/joreen/tyranny.htm
 
-### Coding
 
-#Memory, Storage
+## Coding
+
+### Memory, Storage
 https://medium.com/coinmonks/ethereum-solidity-memory-vs-storage-which-to-use-in-local-functions-72b593c3703a
 
-#Unit Testing
+### Unit Testing
 https://searchsoftwarequality.techtarget.com/definition/unit-testing
 https://www.trufflesuite.com/docs/truffle/testing/writing-tests-in-javascript
 https://github.com/trufflesuite/ganache-cli
@@ -153,44 +155,44 @@ https://gist.github.com/xavierlepretre/d5583222fde52ddfbc58b7cfa0d2d0a9
 https://www.trufflesuite.com/tutorials/debugging-a-smart-contract
 https://michalzalecki.com/ethereum-test-driven-introduction-to-solidity/
 
-#Async, Await, Promises
+### Async, Await, Promises
 https://www.shawntabrizi.com/ethereum/making-web3-js-work-asynchronously-javascript-promises-await/
 https://medium.com/coinmonks/testing-solidity-with-truffle-and-async-await-396e81c54f93
 
-#APIs
+### APIs
 https://github.com/ethereum/go-ethereum/wiki/Management-APIs#debug_dumpblock
 
-#Writing good, effecient code
+### Writing good, effecient code
 https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88/
 https://www.trufflesuite.com/tutorials/robust-smart-contracts-with-openzeppelin
 
-#Secure Code
+### Secure Code
 https://solidity.readthedocs.io/en/latest/security-considerations.html#underflow-overflow
 https://consensys.github.io/smart-contract-best-practices/recommendations/
 https://medium.com/nomic-labs-blog/malicious-backdoors-in-ethereum-proxies-62629adf3357
 https://medium.com/zeppelin-blog/tagged/security
 https://www.pauric.blog/How-To-Hack-Ethereum-Contracts-The-Easy-Way/
 
-#Code Resource List
+### Code Resource List
 https://github.com/PacktPublishing/Ethereum-Cookbook
 https://github.com/b9lab
 https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.png
 
-#Packaging, Containers, Boxes (NPM, WebPack, Truffle Boxes, Boilerplates)
+### Packaging, Containers, Boxes (NPM, WebPack, Truffle Boxes, Boilerplates)
 https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
 https://www.npmjs.com/package/http-server
 https://webpack.js.org/
 https://www.trufflesuite.com/boxes/truffle-next
 
-#More general, but current computer science/engineering/programming guides and resource lists (free)
+### More general, but current computer science/engineering/programming guides and resource lists (free)
 https://github.com/P1xt/p1xt-guides
 https://github.com/mtdvio/every-programmer-should-know
 
-#Git
+### Git
 https://education.github.com/git-cheat-sheet-education.pdf
 
 
-### List of Concept Reads (Didn't want to organize them)
+## List of Concept Reads (Didn't want to organize them)
 https://www.google.com/amp/s/cointelegraph.com/news/how-pegged-sidechains-can-solve-the-problem-of-transacting-across-blockchains/amp
 https://www.technologyreview.com/collection/blockchain-primer-20/
 https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas
