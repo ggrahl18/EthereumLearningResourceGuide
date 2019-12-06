@@ -71,6 +71,7 @@ https://www.dappuniversity.com/articles/web3-js-intro
 https://www.trufflesuite.com/tutorials/pet-shop
 https://www.trufflesuite.com/tutorials/building-testing-frontend-app-truffle-3
 https://gist.github.com/evertonfraga/9d65a9f3ea399ac138b3e40641accf23
+https://ethernaut.openzeppelin.com/
 
 #Tools
 (Ethereum visualization live) http://ethviewer.live/
@@ -168,6 +169,7 @@ https://solidity.readthedocs.io/en/latest/security-considerations.html#underflow
 https://consensys.github.io/smart-contract-best-practices/recommendations/
 https://medium.com/nomic-labs-blog/malicious-backdoors-in-ethereum-proxies-62629adf3357
 https://medium.com/zeppelin-blog/tagged/security
+https://www.pauric.blog/How-To-Hack-Ethereum-Contracts-The-Easy-Way/
 
 #Code Resource List
 https://github.com/PacktPublishing/Ethereum-Cookbook
