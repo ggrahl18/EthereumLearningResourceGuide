@@ -5,19 +5,19 @@
 -https://docs.ethhub.io/
 -https://ethereum.org/
 -https://observablehq.com/@consensys-academy
--https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
--https://kauri.io/article/1f4196c3db7f41e5845f063dc1581a4e/v4/ethereum-explained:-merkle-trees-world-state-transactions-and-more
--https://research.csiro.au/data61/wp-content/uploads/sites/85/2016/08/D61Live2017_Blockchain_Poster-p2.pdf
+https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
+https://kauri.io/article/1f4196c3db7f41e5845f063dc1581a4e/v4/ethereum-explained:-merkle-trees-world-state-transactions-and-more
+https://research.csiro.au/data61/wp-content/uploads/sites/85/2016/08/D61Live2017_Blockchain_Poster-p2.pdf
 
 ###  Devlopment Environment and resource lists, simple to complex
--https://ethereum.org/developers/#getting-started
--https://github.com/ConsenSys/ethereum-developer-tools-list
--https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/giant_ethereum_resource_list.html
--https://kauri.io/
--https://blockgeeks.com/
--https://kauri.io/article/9a7d8927c9484f879d761981d70a42df/v2/tools-for-dapp-development
--https://consensys.net/developers/
--https://ethereum-homestead.readthedocs.io/en/latest/index.html
+- https://ethereum.org/developers/#getting-started
+- https://github.com/ConsenSys/ethereum-developer-tools-list
+- https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/giant_ethereum_resource_list.html
+https://kauri.io/
+* https://blockgeeks.com/
+* https://kauri.io/article/9a7d8927c9484f879d761981d70a42df/v2/tools-for-dapp-development
+* https://consensys.net/developers/
+https://ethereum-homestead.readthedocs.io/en/latest/index.html
 
 ###  Code Editor Tools
 https://davidburela.wordpress.com/2016/11/18/configuring-visual-studio-code-for-ethereum-blockchain-development/
