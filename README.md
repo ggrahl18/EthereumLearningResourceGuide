@@ -1,5 +1,5 @@
 # EthereumLearningResourceGuide
-#### Will be adding virtual machine with devlopment environment already setup soon (next couple of days)
+Will be adding virtual machine with devlopment environment already setup soon (next couple of days)
 
 ## The Beginning, intro level guides covering all aspects of the Ethereum ecosystem (great resource list)
 - https://docs.ethhub.io/
@@ -49,18 +49,19 @@
 - https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor
 
 ###  Ethereum/Solidity Courses
+- The Best, accredited (costs $$$) https://academy.b9lab.com/courses/
 - https://observablehq.com/@consensys-academy
 - https://cryptozombies.io/
 - https://www.bitdegree.org/learn/solidity
 - https://coursetro.com/posts/code/102/Solidity-Mappings-&-Structs-Tutorial
 - https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series
-- (costs $$$) https://academy.b9lab.com/courses/
 - (costs $) https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/
 - (costs $$) https://eattheblocks-pro.teachable.com/
 - (costs $$$) https://www.trufflesuite.com/university
 - (costs $$$) https://consensys.net/academy/ondemand/?utm_source=content&utm_medium=medium
 - (costs $) https://courses.blockgeeks.com/course-library/
 - (costs and free) https://www.dappuniversity.com/
+
 #### A playlist of great instructional videos covering much of this:
 - https://www.youtube.com/playlist?list=PLW17amKMlbb_V2h1j2oJz1NAPid594iZh
 
@@ -187,8 +188,16 @@
 ### More general, but current computer science/engineering/programming guides and resource lists (free)
 - https://github.com/P1xt/p1xt-guides
 - https://github.com/mtdvio/every-programmer-should-know
+- https://www.theodinproject.com/tracks
+- https://www.khanacademy.org/
+- https://www.w3schools.com/
+- https://www.codecademy.com/
+- https://open.appacademy.io/
 
 ### Git
+- https://github.com/
+- https://githowto.com/
+- https://rogerdudler.github.io/git-guide/
 - https://education.github.com/git-cheat-sheet-education.pdf
 
 
