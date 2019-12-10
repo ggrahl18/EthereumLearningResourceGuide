@@ -1,8 +1,8 @@
 # EthereumLearningResourceGuide
-Will be adding virtual machine with devlopment environment already setup soon (next couple of days)
 
 ## The Beginning, intro level guides covering all aspects of the Ethereum ecosystem (great resource list)
 - https://docs.ethhub.io/
+- https://cryptopapers.info/assets/pdf/eth_beige.pdf
 - https://ethereum.org/
 - https://observablehq.com/@consensys-academy
 - https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
@@ -24,6 +24,7 @@ Will be adding virtual machine with devlopment environment already setup soon (n
 - https://atom.io/packages/etheratom
 
 ###  Crucial References (Thorough and "must have")
+- https://cryptopapers.info/assets/pdf/eth_beige.pdf
 - https://github.com/ethereum/wiki/wiki/White-Paper
 - http://gavwood.com/Paper.pdf
 - https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial
@@ -35,6 +36,7 @@ Will be adding virtual machine with devlopment environment already setup soon (n
 - https://www.trufflesuite.com/docs/truffle/overview
 - https://github.com/trufflesuite/ganache
 - https://readthedocs.org/projects/solidity/downloads/pdf/v0.5.13/- https://github.com/manojpramesh/solidity-cheatsheet (becoming more and more outdated)
+- https://conference.hitb.org/hitbsecconf2018ams/materials/WHITEPAPERS/WHITEPAPER%20-%20Bernhard%20Mueller%20-%20Smashing%20Ethereum%20Smart%20Contracts%20for%20Fun%20and%20ACTUAL%20Profit.pdf
 
 ###  Libraries, Utilities, Helpers
 - https://docs.openzeppelin.com/openzeppelin/
