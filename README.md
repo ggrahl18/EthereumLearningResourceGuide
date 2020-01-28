@@ -12,6 +12,7 @@
 
 ###  Devlopment Environment and resource lists, simple to complex
 - https://ethereum.org/developers/#getting-started
+- https://geth.ethereum.org/docs/install-and-build/installing-geth
 - https://github.com/ConsenSys/ethereum-developer-tools-list
 - https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/giant_ethereum_resource_list.html
 - https://kauri.io/
