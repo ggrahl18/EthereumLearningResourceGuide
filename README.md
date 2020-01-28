@@ -4,6 +4,7 @@
 - https://docs.ethhub.io/
 - https://cryptopapers.info/assets/pdf/eth_beige.pdf
 - https://ethereum.org/
+- https://www.mewtopia.com/absolute-beginners-guide/
 - https://observablehq.com/@consensys-academy
 - https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
 - https://kauri.io/article/1f4196c3db7f41e5845f063dc1581a4e/v4/ethereum-explained:-merkle-trees-world-state-transactions-and-more
