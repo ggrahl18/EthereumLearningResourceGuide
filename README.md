@@ -54,6 +54,7 @@
 
 ###  Ethereum/Solidity Courses
 - The Best, accredited (costs $$$) https://academy.b9lab.com/courses/
+- https://studio.ethereum.org/
 - https://observablehq.com/@consensys-academy
 - https://cryptozombies.io/
 - https://www.bitdegree.org/learn/solidity
@@ -118,6 +119,7 @@
 - https://medium.com/fabric-ventures/decentralised-oracles-a-comprehensive-overview-d3168b9a8841
 
 ###  Wallets
+- https://ethereum.org/wallets/
 - https://blockgeeks.com/guides/cryptocurrency-wallet-guide/
 
 ###  Communication among Ethereum nodes
