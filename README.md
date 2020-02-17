@@ -22,8 +22,11 @@
 - https://ethereum-homestead.readthedocs.io/en/latest/index.html
 
 ###  Code Editor Tools
+- https://visualstudio.microsoft.com/
 - https://davidburela.wordpress.com/2016/11/18/configuring-visual-studio-code-for-ethereum-blockchain-development/
+- https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 - https://atom.io/packages/etheratom
+- https://www.sublimetext.com/
 
 ###  Crucial References (Thorough and "must have")
 - https://cryptopapers.info/assets/pdf/eth_beige.pdf
@@ -43,6 +46,9 @@
 ###  Libraries, Utilities, Helpers
 - https://docs.openzeppelin.com/openzeppelin/
 - https://github.com/OpenZeppelin/openzeppelin-contracts
+- https://www.trufflesuite.com/
+- https://www.trufflesuite.com/drizzle
+- https://www.trufflesuite.com/boxes
 
 ###  Q&A Areas, specific questions and answers
 - https://ethereum.stackexchange.com/
@@ -51,6 +57,8 @@
 ###  Testing and Auditing tools
 - https://github.com/ConsenSys/truffle-security
 - https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor
+- https://www.chaijs.com/
+- https://mochajs.org/
 
 ###  Ethereum/Solidity Courses
 - The Best, accredited (costs $$$) https://academy.b9lab.com/courses/
