@@ -151,6 +151,8 @@
 ### Other Ideologies
 - https://www.jofreeman.com/joreen/tyranny.htm
 
+### Ethereum Research
+- https://ethresear.ch/
 
 ## Coding
 
