@@ -198,6 +198,7 @@
 
 ### Git
 - https://github.com/
+- https://help.github.com/en
 - https://githowto.com/
 - https://rogerdudler.github.io/git-guide/
 - https://education.github.com/git-cheat-sheet-education.pdf
