@@ -4,6 +4,7 @@
 - https://docs.ethhub.io/
 - https://cryptopapers.info/assets/pdf/eth_beige.pdf
 - https://ethereum.org/
+- https://www.mewtopia.com/absolute-beginners-guide/
 - https://observablehq.com/@consensys-academy
 - https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
 - https://kauri.io/article/1f4196c3db7f41e5845f063dc1581a4e/v4/ethereum-explained:-merkle-trees-world-state-transactions-and-more
@@ -11,6 +12,7 @@
 
 ###  Devlopment Environment and resource lists, simple to complex
 - https://ethereum.org/developers/#getting-started
+- https://geth.ethereum.org/docs/install-and-build/installing-geth
 - https://github.com/ConsenSys/ethereum-developer-tools-list
 - https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/giant_ethereum_resource_list.html
 - https://kauri.io/
@@ -20,8 +22,11 @@
 - https://ethereum-homestead.readthedocs.io/en/latest/index.html
 
 ###  Code Editor Tools
+- https://visualstudio.microsoft.com/
 - https://davidburela.wordpress.com/2016/11/18/configuring-visual-studio-code-for-ethereum-blockchain-development/
+- https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 - https://atom.io/packages/etheratom
+- https://www.sublimetext.com/
 
 ###  Crucial References (Thorough and "must have")
 - https://cryptopapers.info/assets/pdf/eth_beige.pdf
@@ -41,6 +46,9 @@
 ###  Libraries, Utilities, Helpers
 - https://docs.openzeppelin.com/openzeppelin/
 - https://github.com/OpenZeppelin/openzeppelin-contracts
+- https://www.trufflesuite.com/
+- https://www.trufflesuite.com/drizzle
+- https://www.trufflesuite.com/boxes
 
 ###  Q&A Areas, specific questions and answers
 - https://ethereum.stackexchange.com/
@@ -49,9 +57,12 @@
 ###  Testing and Auditing tools
 - https://github.com/ConsenSys/truffle-security
 - https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor
+- https://www.chaijs.com/
+- https://mochajs.org/
 
 ###  Ethereum/Solidity Courses
 - The Best, accredited (costs $$$) https://academy.b9lab.com/courses/
+- https://studio.ethereum.org/
 - https://observablehq.com/@consensys-academy
 - https://cryptozombies.io/
 - https://www.bitdegree.org/learn/solidity
@@ -116,6 +127,7 @@
 - https://medium.com/fabric-ventures/decentralised-oracles-a-comprehensive-overview-d3168b9a8841
 
 ###  Wallets
+- https://ethereum.org/wallets/
 - https://blockgeeks.com/guides/cryptocurrency-wallet-guide/
 
 ###  Communication among Ethereum nodes
@@ -139,6 +151,8 @@
 ### Other Ideologies
 - https://www.jofreeman.com/joreen/tyranny.htm
 
+### Ethereum Research
+- https://ethresear.ch/
 
 ## Coding
 
