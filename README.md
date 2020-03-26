@@ -2,12 +2,12 @@
 
 ## One Stop Shop for all the software skills that could come in handy. All free to audit
 - https://github.com/P1xt/p1xt-guides
+- https://www.edx.org/course/cs50s-introduction-to-computer-science
 - https://fullstackopen.com/en/
 - https://www.theodinproject.com/tracks
-- https://www.edx.org/course/cs50s-introduction-to-computer-science
-- https://open.appacademy.io/
 - https://www.codecademy.com/
 - https://www.freecodecamp.org/
+- https://open.appacademy.io/
 - https://www.coursera.org/
 - https://www.khanacademy.org/
 - https://ocw.mit.edu/index.htm
