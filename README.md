@@ -117,6 +117,9 @@
 
 ## Concept
 
+### Blockchain Course
+- https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/index.htm
+
 ###  Merkle Trees
 - https://observablehq.com/@consensys-academy/merkle-trees
 
