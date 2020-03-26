@@ -235,6 +235,7 @@
 - https://rogerdudler.github.io/git-guide/
 - https://education.github.com/git-cheat-sheet-education.pdf
 - https://www.udacity.com/course/version-control-with-git--ud123
+- https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 
 ## List of Concept Reads (Didn't want to organize them)
