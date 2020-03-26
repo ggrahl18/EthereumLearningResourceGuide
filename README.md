@@ -163,6 +163,9 @@
 - https://tokentaxonomy.org/resources/technical-documents/
 - https://medium.com/coinmonks/the-top-3-catalysts-behind-an-impending-monetary-revolution-85735af7e170
 
+### Cryptography
+- https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/
+
 ### Other Ideologies
 - https://www.jofreeman.com/joreen/tyranny.htm
 
