@@ -1,18 +1,5 @@
 # EthereumLearningResourceGuide
 
-## One Stop Shop for all the software skills that could come in handy. All free to audit
-- https://developer.mozilla.org/en-US/docs/Learn
-- https://github.com/P1xt/p1xt-guides
-- https://www.edx.org/course/cs50s-introduction-to-computer-science
-- https://fullstackopen.com/en/
-- https://www.theodinproject.com/tracks
-- https://www.codecademy.com/
-- https://www.freecodecamp.org/
-- https://open.appacademy.io/
-- https://www.coursera.org/
-- https://www.khanacademy.org/
-- https://ocw.mit.edu/index.htm
-
 ## The Beginning, intro level guides covering all aspects of the Ethereum ecosystem (great resource list)
 - https://docs.ethhub.io/
 - https://cryptopapers.info/assets/pdf/eth_beige.pdf
@@ -220,14 +207,22 @@
 - https://webpack.js.org/
 - https://www.trufflesuite.com/boxes/truffle-next
 
-### More general, but current computer science/engineering/programming guides and resource lists (free)
+
+## Fullstack - One Stop Shop for all the software skills that could come in handy. All free to audit
+- https://developer.mozilla.org/en-US/docs/Learn
 - https://github.com/P1xt/p1xt-guides
-- https://github.com/mtdvio/every-programmer-should-know
+- https://www.edx.org/course/cs50s-introduction-to-computer-science
+- https://fullstackopen.com/en/
 - https://www.theodinproject.com/tracks
-- https://www.khanacademy.org/
-- https://www.w3schools.com/
 - https://www.codecademy.com/
+- https://www.freecodecamp.org/
 - https://open.appacademy.io/
+- https://www.coursera.org/
+- https://www.khanacademy.org/
+- https://ocw.mit.edu/index.htm
+- https://www.w3schools.com/
+- https://github.com/mtdvio/every-programmer-should-know
+
 
 ### Git
 - https://github.com/
@@ -297,3 +292,27 @@
 - https://ethereum.stackexchange.com/questions/58093/difference-between-ganache-and-truffle
 - https://mastanbtc.github.io/blockchainnotes/consensustypes/
 - https://hackernoon.com/the-power-of-nodejs-xtj4307y
+
+## Web Design Specifically
+
+### HTML
+- https://developer.mozilla.org/en-US/docs/Learn/HTML
+
+### CSS
+- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
+
+### JavaScript
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+
+### Server-side Programming
+- https://developer.mozilla.org/en-US/docs/Learn/Server-side
+
+### Tools and Testing
+- https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing
+
+### Forms
+- https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
+- https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/
+- https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/
+- https://www.uxmatters.com/mt/archives/2012/05/7-basic-best-practices-for-buttons.php
+- https://www.uxmatters.com/mt/archives/2010/03/pagination-in-web-forms-evaluating-the-effectiveness-of-web-forms.php
