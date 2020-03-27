@@ -1,6 +1,7 @@
 # EthereumLearningResourceGuide
 
 ## One Stop Shop for all the software skills that could come in handy. All free to audit
+- https://developer.mozilla.org/en-US/docs/Learn
 - https://github.com/P1xt/p1xt-guides
 - https://www.edx.org/course/cs50s-introduction-to-computer-science
 - https://fullstackopen.com/en/
