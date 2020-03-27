@@ -208,32 +208,6 @@
 - https://www.trufflesuite.com/boxes/truffle-next
 
 
-## Fullstack - One Stop Shop for all the software skills that could come in handy. All free to audit
-- https://developer.mozilla.org/en-US/docs/Learn
-- https://github.com/P1xt/p1xt-guides
-- https://www.edx.org/course/cs50s-introduction-to-computer-science
-- https://fullstackopen.com/en/
-- https://www.theodinproject.com/tracks
-- https://www.codecademy.com/
-- https://www.freecodecamp.org/
-- https://open.appacademy.io/
-- https://www.coursera.org/
-- https://www.khanacademy.org/
-- https://ocw.mit.edu/index.htm
-- https://www.w3schools.com/
-- https://github.com/mtdvio/every-programmer-should-know
-
-
-### Git
-- https://github.com/
-- https://help.github.com/en
-- https://githowto.com/
-- https://rogerdudler.github.io/git-guide/
-- https://education.github.com/git-cheat-sheet-education.pdf
-- https://www.udacity.com/course/version-control-with-git--ud123
-- https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-
-
 ## List of Concept Reads (Didn't want to organize them)
 - https://www.google.com/amp/s/cointelegraph.com/news/how-pegged-sidechains-can-solve-the-problem-of-transacting-across-blockchains/amp
 - https://www.technologyreview.com/collection/blockchain-primer-20/
@@ -292,6 +266,32 @@
 - https://ethereum.stackexchange.com/questions/58093/difference-between-ganache-and-truffle
 - https://mastanbtc.github.io/blockchainnotes/consensustypes/
 - https://hackernoon.com/the-power-of-nodejs-xtj4307y
+
+
+## Fullstack Skills - All free to audit
+- https://developer.mozilla.org/en-US/docs/Learn
+- https://github.com/P1xt/p1xt-guides
+- https://www.edx.org/course/cs50s-introduction-to-computer-science
+- https://fullstackopen.com/en/
+- https://www.theodinproject.com/tracks
+- https://www.codecademy.com/
+- https://www.freecodecamp.org/
+- https://open.appacademy.io/
+- https://www.coursera.org/
+- https://www.khanacademy.org/
+- https://ocw.mit.edu/index.htm
+- https://www.w3schools.com/
+- https://github.com/mtdvio/every-programmer-should-know
+
+### Git
+- https://github.com/
+- https://help.github.com/en
+- https://githowto.com/
+- https://rogerdudler.github.io/git-guide/
+- https://education.github.com/git-cheat-sheet-education.pdf
+- https://www.udacity.com/course/version-control-with-git--ud123
+- https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
 
 ## Web Design Specifically
 
