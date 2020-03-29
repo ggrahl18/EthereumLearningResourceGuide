@@ -303,6 +303,13 @@
 
 ### JavaScript
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+- https://github.com/getify/You-Dont-Know-JS
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance
+
+### React
+- https://fullstackopen.com/en/part1/javascript
+- https://egghead.io/
 
 ### Server-side Programming
 - https://developer.mozilla.org/en-US/docs/Learn/Server-side
