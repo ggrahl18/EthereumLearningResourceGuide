@@ -102,6 +102,10 @@
 - `(IDE)` - https://ethfiddle.com/
 - `(Mnemonic Code Converter)` - https://iancoleman.io/bip39/
 
+### Projects, Exercises, Portfolio Additions
+- https://github.com/ibrunotome/udacity-blockchain-developer-nanodegree
+- https://github.com/ConsenSys-Academy
+- https://github.com/StephenGrider/EthereumCasts
 
 ## Concept
 
