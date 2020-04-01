@@ -312,8 +312,10 @@
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance
 
 ### React
-- https://fullstackopen.com/en/part1/javascript
-- https://egghead.io/
+- https://fullstackopen.com/en/
+- https://reactjs.org/docs/hello-world.html
+- https://egghead.io/courses/start-learning-react
+- https://egghead.io/courses/the-beginner-s-guide-to-reactjs
 
 ### Server-side Programming
 - https://developer.mozilla.org/en-US/docs/Learn/Server-side
